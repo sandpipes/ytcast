@@ -1,6 +1,15 @@
 apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'application'
 
 sourceCompatibility = 1.8
+
+mainClassName = 'com.sandpipes.ytCast'
+
+jar {
+    baseName = 'ytcast'
+    version =  '1.0'
+}
 
 jar {
    manifest {
