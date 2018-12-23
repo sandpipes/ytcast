@@ -94,6 +94,6 @@ public class LoginScreen {
 			scene = new Scene(gridPane);  
 		
 		stage.setTitle("Login"); 
-		stage.setScene(scene); 
+		stage.setScene(scene);
 	}
 }
