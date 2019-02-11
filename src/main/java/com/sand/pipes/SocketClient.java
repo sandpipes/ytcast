@@ -1,4 +1,4 @@
-package com.sandpipes;
+package com.sand.pipes;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

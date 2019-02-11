@@ -1,4 +1,4 @@
-package com.sandpipes;
+package com.sand.pipes;
 
 import javafx.application.Application;
 import javafx.stage.Stage;

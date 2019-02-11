@@ -1,9 +1,4 @@
-package com.sandpipes;
-
-import java.awt.Color;
-import java.io.IOException;
-
-import org.jsoup.Jsoup;
+package com.sand.pipes;
 
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;

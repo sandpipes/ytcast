@@ -1,4 +1,4 @@
-package com.sandpipes;
+package com.sand.pipes;
 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayInputStream;

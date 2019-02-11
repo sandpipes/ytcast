@@ -1,4 +1,4 @@
-package com.sandpipes;
+package com.sand.pipes;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
